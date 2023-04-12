@@ -1,71 +1,52 @@
 # Laravel_projekt
 
-</style></head><body><h1 id="pierwszy-projekt-laravel-el-biety-jankovskiej">Lab1 Laravel Edgar Tomaszewicz </h1>
+</style></head><body><h1 id="pierwszy">projekt Laravel Edgar Tomaszewicz </h1>
 <h2 id="projekt-1">Projekt</h2>
+    
 <h3 id="wygl-d-strony-g-wnej-">Aby zajść strzebo stworzyć w bd użytkownika i w tablice trzebo gdzie jest paassword zapisać w szyfrowanym widzie przez Bcrypt, 
-tak wygląd strony logowanie się:</h3>
+tak wygląd strona logowanie się:</h3>
 <p><img src="https://user-images.githubusercontent.com/120020955/231561783-b8c41185-0654-4135-9401-db5792360e72.png" alt="image"></p>
-<h3 id="wygl-d-strony-po-naci-ni-ciu-przycisku-category-1-">tak wygląd strona po zalogowaniu;:</h3>
+    
+<h3 id="wygl">tak wygląd strona po zalogowaniu:</h3>
 <p><img src="https://user-images.githubusercontent.com/120020955/231564026-ab8597e7-96ac-4bce-a616-84d783d43062.png" alt="image"> 
  .</p>
  
-<h3 id="wygl-d-strony-po-naci-ni-ciu-na-post-3-">Po naciśnięciu na utwórz użytkownika nam wyskakuje menu dodawania użytkownika:":</h3>
+<h3 id="wygl-d-">Po naciśnięciu na utwórz użytkownika nam wyskakuje menu dodawania użytkownika:</h3>
 <p><img src="https://user-images.githubusercontent.com/120020955/231565155-e9f9e10b-8d0a-4896-86c8-6c5740ba679f.png" alt="image">
 
-<h3 id="wygl-d-strony-po-naci-ni-ciu-przycisku-about-">Zobaczmy dobawienie użytkownika do bazy danych :</h3>
+<h3 id="wygl-d-">Zobaczmy dobawienie użytkownika do bazy danych:</h3>
 <p><img src="https://user-images.githubusercontent.com/120020955/231566958-7dfa4a46-7948-4ca3-b8b4-5030374995e1.png"></p>
 
-<h3 id="wygl-d-bazy-danych-laravel-tabela-categories-">Tak wygląda Zamówienia:</h3>
+<h3 id="wygl-*">Tak wygląda Zamówienia:</h3>
 <p><img src="https://user-images.githubusercontent.com/120020955/231567813-be068783-63ba-4e2c-92ac-f757a9d2fa83.png" alt="image"></p>
 
-<h3 id="wygl-d-bazy-danych-laravel-tabela-posts-">Tak wygląda dodawanie zamówienia:</h3>
+<h3 id="wygl--">Tak wygląda dodawanie zamówienia:</h3>
 <p><img src="https://user-images.githubusercontent.com/120020955/231568244-a416961e-c4da-4c60-a752-cec01369451a.png " alt="image"></p>
 
-<h3 id="wygl-d-strony-pocz-tkowej-">Tak wygląda stronica Katergoria </h3>
+<h3 id="wygl-*-">Tak wygląda stronica Katergoria:</h3>
 <p><img src="https://user-images.githubusercontent.com/120020955/231569104-75798342-18db-4b24-ab0c-199efcf55420.png" alt="image"></p>
 
 
-<h2 id="wygl-d-strony-po-naci-ni-ciu-przycisku-register-">Tak wygląda Tworzenie kategorii:</h2>
+<h2 id="wygl-*-*">Tak wygląda Tworzenie kategorii:</h2>
 <p><img src="https://user-images.githubusercontent.com/120020955/231569415-ce7c5126-341a-4ca5-8070-77d2abd0d58a.png" alt="image"></p>
 
-<h2 id="wygl-d-strony-po-zalogowaniu-si-">Tak wygląda strona Towary:</h2>
+<h2 id="wygl-/">Tak wygląda strona Towary:</h2>
 <p><img src="https://user-images.githubusercontent.com/120020955/231569900-50201e67-02be-42e5-a5e0-09145493e411.png" alt="image"></p>
 
-<h2 id="wygl-d-danych-u-ytkownik-w-w-bazie-danych-tabela-users-">Tak wygląda dodawanie towarów :</h2>
+<h2 id="wygl-*/">Tak wygląda dodawanie towarów:</h2>
 <p><img src="https://user-images.githubusercontent.com/120020955/231570274-c8088b53-6002-4060-bfb6-5a1c5e28375a.png" alt="image"></p>
 
-<h2 id="wygl-d-strony-po-naci-ni-ciu-przycisku-categories-">Tak wygląda stronica użytkowników:</h2>
-<p><img src=" https://user-images.githubusercontent.com/120020955/231572230-722b18ae-c778-46bd-884e-1c43ae252668.png" alt="image"></p>
+<h2 id="wygl-45">Tak wygląda stronica użytkowników:</h2>
+<p><img src="https://user-images.githubusercontent.com/120020955/231572230-722b18ae-c778-46bd-884e-1c43ae252668.png" alt="image"></p>
 
-<h2 id="wygl-d-strony-po-naci-ni-ciu-add-new-category-">Wygląd strony po naciśnięciu Add new category:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064247-a0488492-ee5f-4c95-be65-7bff83ede708.png" alt="image"></p>
+<h2 id="wygl-d445">Tak wygląda strona po dodawaniu zamówień:</h2>
+<p><img src="https://user-images.githubusercontent.com/120020955/231574521-b1a231c1-1d9c-4710-9950-f3bfa2bceda1.png" alt="image"></p>
 
-<h2 id="wygl-d-strony-po-dodaniu-nowej-kategorii-">Wygląd strony po dodaniu nowej kategorii:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064275-c5cc72fd-eb73-4c13-8f20-19deddd588d1.png" alt="image"></p>
+<h2 id="wygl-457/">Tak Wygląd strona po dodaniu Kategorii:</h2>
+<p><img src="https://user-images.githubusercontent.com/120020955/231574710-b447243f-3fc3-4485-a0e0-331d1a79e899.png" alt="image"></p>
 
-<h2 id="wygl-d-strony-gdy-przy-kategorii-nowa-kategoria-wci-niemy-edit-">Wygląd strony, gdy przy kategorii Nowa kategoria wciśniemy Edit:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064315-d0b1a49e-4a50-4146-97bb-3abdfa70ed55.png" alt="image"></p>
-
-<h2 id="wygl-d-strony-gdy-przy-kategorii-nowa-kategoria-wci-niemy-delete-">Wygląd strony, gdy przy kategorii Nowa kategoria wciśniemy Delete:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064356-33873580-5b23-4eb9-bea5-2f3e85474905.png" alt="image"></p>
-
-<h2 id="wygl-d-danych-w-bazie-danych-tabela-categories-">Wygląd danych w bazie danych tabela categories:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221139486-1a8c8b48-ef55-4147-8540-46193d9dad94.png" alt="image"></p>
-
-<h2 id="wygl-d-strony-po-naci-ni-ciu-przycisku-posts-">Wygląd strony po naciśnięciu przycisku Posts:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064467-cf0a9d48-dc21-4f51-9eeb-6f67621672a0.png" alt="image"></p>
-
-<h2 id="wygl-d-strony-po-naci-ni-ciu-przycisku-add-new-post-">Wygląd strony po naciśnięciu przycisku Add new post:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064532-ea28a439-5edc-462f-b4fe-3e4d06ae4325.png" alt="image"></p>
-
-<h2 id="wygl-d-strony-gdy-przy-po-cie-laravel-wci-niemy-edit-">Wygląd strony, gdy przy poście Laravel wciśniemy Edit:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064569-d5d3772c-5423-4675-9630-d83cb260fd5e.png" alt="image"></p>
-
-<p>##Wygląd strony, gdy przy poście Laravel wciśniemy Delete:
-<img src="https://user-images.githubusercontent.com/120020955/221064653-7999f4d0-5c52-42f5-b8c5-6912cb00f2fe.png" alt="image"></p>
-
-<h2 id="wygl-d-danych-w-bazie-danych-tabela-posts-">Wygląd danych w bazie danych tabela posts:</h2>
-<p><img src="https://user-images.githubusercontent.com/120020955/221064719-f672924e-6c9a-40ca-982b-81062d2fe030.png" alt="image"></p>
+<h2 id="wygl-d">Tak Wygląd strona po dodaniu nowego Towaru</h2>
+<p><img src="https://user-images.githubusercontent.com/120020955/231575956-a09e9b03-05bd-447e-bc71-19e6141e0c50.png" alt="image"></p>
 
 </body></html>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
