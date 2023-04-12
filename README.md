@@ -45,7 +45,7 @@ tak wygląd strona logowanie się:</h3>
 <h2 id="wygl-457/">Tak Wygląd strona po dodaniu Kategorii:</h2>
 <p><img src="https://user-images.githubusercontent.com/120020955/231574710-b447243f-3fc3-4485-a0e0-331d1a79e899.png" alt="image"></p>
 
-<h2 id="wygl-d">Tak Wygląd strona po dodaniu nowego Towaru</h2>
+<h2 id="wygl-d">Tak Wygląd strona po dodaniu nowego Towaru:</h2>
 <p><img src="https://user-images.githubusercontent.com/120020955/231575956-a09e9b03-05bd-447e-bc71-19e6141e0c50.png" alt="image"></p>
 
 </body></html>
